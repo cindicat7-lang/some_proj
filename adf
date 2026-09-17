@@ -1,0 +1,35 @@
+[33mcommit c558ecd1b7c37577e5b6ea3a93605e7ac7dd456f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Egor <newtechfusion88@gmail.com>
+Date:   Thu Sep 17 20:44:05 2026 +0300
+
+    Revert "some_changes"
+    
+    This reverts commit b6f22a58eb6bdf71a3a858c6f55fcbd5eea81afa.
+    
+    :wq
+    
+    sdf
+
+[33mcommit b6f22a58eb6bdf71a3a858c6f55fcbd5eea81afa[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Egor <newtechfusion88@gmail.com>
+Date:   Thu Sep 17 20:37:30 2026 +0300
+
+    some_changes
+
+[33mcommit e0273c90367b43ce86cc1c1919870145bb8b7149[m
+Author: cindicat7-lang <cindicat7@gmail.com>
+Date:   Thu Sep 17 20:26:58 2026 +0300
+
+    Create README.md
+
+[33mcommit 098243cd6e07a4c7334083a73dcd78259ff9863e[m
+Author: Egor <newtechfusion88@gmail.com>
+Date:   Thu Sep 17 20:23:24 2026 +0300
+
+    Changed file.txt
+
+[33mcommit 697a9a15cd0819d06112c29c73a6d79057416269[m
+Author: Egor <newtechfusion88@gmail.com>
+Date:   Thu Sep 17 20:17:06 2026 +0300
+
+    Added file.txt
